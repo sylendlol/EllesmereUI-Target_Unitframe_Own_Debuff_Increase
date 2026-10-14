@@ -1,0 +1,10 @@
+## Interface: 16001, 120000, 120001, 120005, 120007, 120100
+## Title: EllesmereUI |cff0cd29fTarget Own Debuffs|r
+## Notes: Your own debuffs on the EllesmereUI target frame get a larger icon; every other debuff (other players, NPCs, zone effects) still shows at the normal size. Settings: Unit Frames > Main Frames > Target > OWN DEBUFFS. Status: /euitod
+## Author: Custom
+## Version: 1.0.1
+## Dependencies: EllesmereUI, EllesmereUIUnitFrames
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+TargetOwnDebuffs.lua
+TargetOwnDebuffs_Options.lua
